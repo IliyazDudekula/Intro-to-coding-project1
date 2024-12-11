@@ -10,8 +10,8 @@ This repository contains the implementation of the classic Connect Four game, wh
 
 Connect Four is a two-player game where the objective is to be the first to get four of their pieces in a row (horizontally, vertically, or diagonally) on a 7x6 grid. In this implementation:
 
-- **Player 1 (Red): The human player
-- **Player 2 (Yellow): The AI, which plays against the human player
+- Player 1 (Red): The human player
+- Player 2 (Yellow): The AI, which plays against the human player
 
 The game board has 6 rows and 7 columns. Players take turns dropping pieces into the columns. The piece falls to the lowest available space in the chosen column. The game ends when one player connects four pieces in a row, or the board is full, resulting in a tie.
 
